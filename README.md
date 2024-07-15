@@ -6,7 +6,7 @@
 - It swiftly navigates websites, plays music through its musicLibrary, and responds intelligently to ”Hey Friday” , enhancing digital experience seamlessly, functions akin to Alexa or Google Assistant, ensuring unmatched efficiency
 
 
-### FEATURES
+## FEATURES
 
 - Voice Recognition
 - Activates upon detecting the wake word "Hey Friday"
@@ -18,7 +18,7 @@
 - Acts as a general virtual assistant similar to Alexa or Google Assistant
 
 
-### WORKFLOW
+## WORKFLOW
 
 - Initialization
 - Greets the user with "Initializing Friday...."
